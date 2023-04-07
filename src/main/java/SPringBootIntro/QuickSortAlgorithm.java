@@ -1,4 +1,4 @@
-package com.in28minutes.spring.basics.springin5steps;
+package SPringBootIntro;
 
 import org.springframework.stereotype.Component;
 
